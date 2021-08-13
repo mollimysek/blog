@@ -15,6 +15,9 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@fontsource/anonymous-pro": "^4.5.0",
+    "@fontsource/chivo": "^4.5.0",
+    "@fontsource/inter": "^4.5.0",
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
     "gatsby": "^3.11.1",

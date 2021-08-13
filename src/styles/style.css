@@ -1,0 +1,25 @@
+body {
+    color: #0B1418;
+    font-size: 100%;
+    margin: 0;
+    line-height: 1.4283;
+    font-family: "Anonymous Pro", Roboto, Verdana, "Helvetica Neue", sans-serif;
+    background-color: #fff;
+  }
+  h1 {
+        font-family: "Chivo";
+        font-weight: 500;
+        font-size: 3.2rem;
+        line-height: 1.2;
+        letter-spacing: .5px;
+        color: #0B1418;
+  }
+
+  h2,
+  h3 {
+    font-weight: 400;
+  }
+  a {
+    color: #FF47DA;
+    text-decoration: none;
+  }
